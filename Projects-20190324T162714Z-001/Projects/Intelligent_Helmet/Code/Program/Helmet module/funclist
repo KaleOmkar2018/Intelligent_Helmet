@@ -1,0 +1,14 @@
+_USART_SENDDATA: CODE, 218 0 12
+_delay: CODE, 246 0 19
+___ftpack: CODE, 499 0 115
+_main: CODE, 1670 0 378
+___ftadd: CODE, 1366 0 304
+___lwdiv: CODE, 355 0 70
+___lbtoft: CODE, 292 0 29
+_sqrt: CODE, 1116 0 250
+_ADC_CONV: CODE, 614 0 141
+___ftmul: CODE, 914 0 202
+___fttol: CODE, 755 0 159
+___ftsub: CODE, 265 0 27
+___ftge: CODE, 425 0 74
+Total: 1780
